@@ -1,2 +1,7 @@
-# MPU6050_Spherical
 Get acceleration vector from MPU6050 in spherical coordinates
+
+MPU6050_Sphereical.ino is an example
+GravVector.h and GravVector.cpp does reads the sensor and does the math
+
+All the other files are for reading the MPU6050
+
